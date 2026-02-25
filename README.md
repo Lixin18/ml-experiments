@@ -8,3 +8,7 @@ using google colab is an good option
 then we will be learning to do advanced projects in ML \
 then learn cnn and rnn and work with that'
 then learn deep learning and generative AI
+there are three main learning in machine learning they are
+supervised learning 
+unsupervised learning 
+reinforcement learning
